@@ -1,5 +1,5 @@
-# 💫 Hi 👋, I'm Anjan Chakraborty
-**A passionate Software Developer**
+# 💫 Hi 👋, I'm Anjan Chakraborty 
+**A passionate Software Developer** || MERN
 
 Email Me 👉 ✉️ **anjanchakraborty013@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
