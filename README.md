@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
-</p>
-
 # 💫 About Me:
 Hi, I'm Anjan 👋<br><br>I'm a Full Stack Developer with a strong focus on JavaScript and the MERN stack (MongoDB, Express, React, Node.js). I enjoy building real-world applications that solve problems and help me grow as a developer.<br><br>Currently, I'm exploring the world of AI and how it can be integrated into modern web applications. I like learning by building, experimenting with new technologies, and improving my problem-solving skills every day.<br><br>🚀 Tech Stack: JavaScript | MERN Stack<br>🤖 Interests: Artificial Intelligence, Scalable Web Apps<br>📈 Goal: To become a skilled developer and build impactful products<br><br>Always learning, always building.<br>
 
