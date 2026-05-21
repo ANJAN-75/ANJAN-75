@@ -2,7 +2,7 @@
 
 <div align="center">
 # 
-<h1 align="center">Hi, I'm Anjan 👋</h1><br><br>I'm a <h4>Full Stack Developer</h4> with a strong focus on JavaScript and the MERN stack (MongoDB, Express, React, Node.js). I enjoy building real-world applications that solve problems and help me grow as a developer.<br><br>Currently, I'm exploring the world of AI and how it can be integrated into modern web applications. I like learning by building, experimenting with new technologies, and improving my problem-solving skills every day.<br><br>🚀 Tech Stack: JavaScript | MERN Stack<br>🤖 Interests: Artificial Intelligence, Scalable Web Apps<br>📈 Goal: To become a skilled developer and build impactful products<br><br>Always learning, always building.<br>
+<h1 align="center">Hi, I'm Anjan 👋</h1><br><br>I'm a <h2>Full Stack Developer</h4> with a strong focus on JavaScript and the MERN stack (MongoDB, Express, React, Node.js). I enjoy building real-world applications that solve problems and help me grow as a developer.<br><br>Currently, I'm exploring the world of AI and how it can be integrated into modern web applications. I like learning by building, experimenting with new technologies, and improving my problem-solving skills every day.<br><br>🚀 Tech Stack: JavaScript | MERN Stack<br>🤖 Interests: Artificial Intelligence, Scalable Web Apps<br>📈 Goal: To become a skilled developer and build impactful products<br><br>Always learning, always building.<br>
 
 
 ## 🌐 Socials:
