@@ -2,7 +2,71 @@
 
 <div align="center">
 # 
-<h1 align="center">Hi, I'm Anjan 👋</h1><br><br>I'm a <h2>Full Stack Developer</h4> with a strong focus on JavaScript and the MERN stack (MongoDB, Express, React, Node.js). I enjoy building real-world applications that solve problems and help me grow as a developer.<br><br>Currently, I'm exploring the world of AI and how it can be integrated into modern web applications. I like learning by building, experimenting with new technologies, and improving my problem-solving skills every day.<br><br>🚀 Tech Stack: JavaScript | MERN Stack<br>🤖 Interests: Artificial Intelligence, Scalable Web Apps<br>📈 Goal: To become a skilled developer and build impactful products<br><br>Always learning, always building.<br>
+<h1 align="center">Hi 👋, I'm Anjan</h1>
+
+<h3 align="center">
+  <b>Full Stack Developer</b> • <b>MERN Stack</b> • <b>DSA Enthusiast</b> • <b>AI Explorer</b>
+</h3>
+
+---
+
+## 🚀 About Me
+
+I'm a passionate <b>Full Stack Developer</b> with a strong focus on <b>JavaScript</b> and the <b>MERN Stack</b> — <b>MongoDB</b>, <b>Express.js</b>, <b>React.js</b>, and <b>Node.js</b>.  
+I enjoy building <b>real-world applications</b>, solving problems, and continuously improving my development skills.
+
+Currently, I'm diving deeper into:
+
+- 📚 <b>Data Structures & Algorithms (DSA)</b>
+- 🤖 <b>AI-powered Web Applications</b>
+- ⚡ <b>Scalable Backend Systems</b>
+- 🧠 <b>Problem Solving & System Design</b>
+
+I believe in <b>learning by building</b>, experimenting with modern technologies, and staying consistent every day.
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages & Core
+- <b>JavaScript</b>
+- <b>Java</b>
+- <b>HTML5</b>
+- <b>CSS3</b>
+
+### 🌐 Full Stack Development
+- <b>React.js</b>
+- <b>Node.js</b>
+- <b>Express.js</b>
+- <b>MongoDB</b>
+- <b>REST APIs</b>
+- <b>Socket.IO</b>
+
+### 📚 DSA & CS Fundamentals
+- <b>Data Structures & Algorithms</b>
+- <b>Problem Solving</b>
+- <b>OOP Concepts</b>
+- <b>Time & Space Complexity</b>
+
+### 🤖 Exploring
+- <b>AI Integration</b>
+- <b>LLM Applications</b>
+- <b>Modern Web Architecture</b>
+
+---
+
+## 📈 Current Goals
+
+- Strengthen <b>DSA</b> for top product-based companies
+- Build scalable <b>Full Stack Projects</b>
+- Explore <b>AI + Web Development</b>
+- Become a highly skilled <b>Software Engineer</b>
+
+---
+
+<p align="center">
+  🚀 <b>Always Learning • Always Building • Always Improving</b>
+</p>
 
 
 ## 🌐 Socials:
