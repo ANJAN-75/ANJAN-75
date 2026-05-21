@@ -4,7 +4,7 @@
 # 
 <h1 align="center">Hi 👋, I'm Anjan</h1>
 
-I'm a passionate <h3><b>Full Stack Developer</b></h3> with a strong focus on <b>JavaScript</b> and the <b>MERN Stack</b> — <b>MongoDB</b>, <b>Express.js</b>, <b>React.js</b>, and <b>Node.js</b>.  
+ <h2><b>Full Stack Developer</b></h2> with a strong focus on <b>JavaScript</b> and the <b>MERN Stack</b> — <b>MongoDB</b>, <b>Express.js</b>, <b>React.js</b>, and <b>Node.js</b>.  
 I enjoy building <b>real-world</b> and <b>scalable applications</b>, solving problems, and continuously improving my development skills.
 ---
 
