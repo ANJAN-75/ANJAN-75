@@ -1,70 +1,25 @@
 <img src="https://i.postimg.cc/s2FrgXtg/footer.gif">
 
 <div align="center">
-# 
-<h1 align="center">Hi 👋, I'm Anjan</h1>
 
- <h2><b>Full Stack Developer</b></h2> with a strong focus on <b>JavaScript</b> and the <b>MERN Stack</b> — <b>MongoDB</b>, <b>Express.js</b>, <b>React.js</b>, and <b>Node.js</b>.  
-I enjoy building <b>real-world</b> and <b>scalable applications</b>, solving problems, and continuously improving my development skills.
----
+<h1>Hi 👋, I'm Anjan</h1>
 
-## 🚀 About Me
+<h3>
+<b>Full Stack Developer</b> • <b>MERN Stack</b> • <b>DSA Enthusiast</b> • <b>AI Explorer</b>
+</h3>
 
-I'm a passionate <b>Full Stack Developer</b> with a strong focus on <b>JavaScript</b> and the <b>MERN Stack</b> — <b>MongoDB</b>, <b>Express.js</b>, <b>React.js</b>, and <b>Node.js</b>.  
-I enjoy building <b>real-world applications</b>, solving problems, and continuously improving my development skills.
-
-Currently, I'm diving deeper into:
-
-- 📚 <b>Data Structures & Algorithms (DSA)</b>
-- 🤖 <b>AI-powered Web Applications</b>
-- ⚡ <b>Scalable Backend Systems</b>
-- 🧠 <b>Problem Solving & System Design</b>
-
-I believe in <b>learning by building</b>, experimenting with modern technologies, and staying consistent every day.
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Languages & Core
-- <b>JavaScript</b>
-- <b>Java</b>
-- <b>HTML5</b>
-- <b>CSS3</b>
-
-### 🌐 Full Stack Development
-- <b>React.js</b>
-- <b>Node.js</b>
-- <b>Express.js</b>
-- <b>MongoDB</b>
-- <b>REST APIs</b>
-- <b>Socket.IO</b>
-
-### 📚 DSA & CS Fundamentals
-- <b>Data Structures & Algorithms</b>
-- <b>Problem Solving</b>
-- <b>OOP Concepts</b>
-- <b>Time & Space Complexity</b>
-
-### 🤖 Exploring
-- <b>AI Integration</b>
-- <b>LLM Applications</b>
-- <b>Modern Web Architecture</b>
-
----
-
-## 📈 Current Goals
-
-- Strengthen <b>DSA</b> for top product-based companies
-- Build scalable <b>Full Stack Projects</b>
-- Explore <b>AI + Web Development</b>
-- Become a highly skilled <b>Software Engineer</b>
-
----
-
-<p align="center">
-  🚀 <b>Always Learning • Always Building • Always Improving</b>
+<p>
+I'm a passionate <b>Full Stack Developer</b> focused on <b>JavaScript</b> and the <b>MERN Stack</b> — <b>MongoDB</b>, <b>Express.js</b>, <b>React.js</b>, and <b>Node.js</b>.  
+I enjoy building <b>scalable web applications</b>, solving problems with <b>DSA</b>, and exploring <b>AI-powered applications</b>.
 </p>
+
+🚀 <b>Tech:</b> JavaScript • MERN Stack • Java • REST APIs • Socket.IO  
+📚 <b>Currently Learning:</b> DSA • System Design • AI Integration  
+🎯 <b>Goal:</b> Build impactful and scalable products
+
+<b>Always Learning • Always Building • Always Improving</b>
+
+</div>
 
 
 ## 🌐 Socials:
